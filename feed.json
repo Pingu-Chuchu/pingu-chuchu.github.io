@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "300_NAI_STYLES",
+    "description": "",
+    "home_page_url": "https://pingu-chuchu.github.io",
+    "feed_url": "https://pingu-chuchu.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Pingu"
+    },
+    "items": [
+    ]
+}
